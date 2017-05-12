@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1>{{ msg }}</h1>
-    <h2>IT's myWebpack-simple</h2>
+    <h2>It's myWebpack-simple</h2>
   </div>
 </template>
 
